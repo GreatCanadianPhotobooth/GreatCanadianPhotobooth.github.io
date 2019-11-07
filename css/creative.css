@@ -9623,7 +9623,7 @@ hr.light {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 1);
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
