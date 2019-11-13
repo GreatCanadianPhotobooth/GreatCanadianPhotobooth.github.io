@@ -2464,8 +2464,8 @@ fieldset:disabled a.btn {
 
 .btn-light:hover {
   color: #212529;
-  background-color: #e2e6ea;
-  border-color: #dae0e5;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .btn-light:focus, .btn-light.focus {
@@ -2481,7 +2481,7 @@ fieldset:disabled a.btn {
 .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active,
 .show > .btn-light.dropdown-toggle {
   color: #212529;
-  background-color: #dae0e5;
+  background-color: #fff;
   border-color: #d3d9df;
 }
 
